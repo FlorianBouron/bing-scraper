@@ -1,0 +1,28 @@
+{
+  "name": "bing-scraper",
+  "version": "1.0.0",
+  "description": "Basic scraper for bing with Phantom.js and Casper.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "casperjs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorianBouron/bing-scraper.git"
+  },
+  "keywords": [
+    "CasperJs",
+    "PhantomJS",
+    "Scraper",
+    "Javascript",
+    "Bing"
+  ],
+  "author": "Florian Bouron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorianBouron/bing-scraper/issues"
+  },
+  "homepage": "https://github.com/FlorianBouron/bing-scraper#readme",
+  "dependencies": {}
+}
